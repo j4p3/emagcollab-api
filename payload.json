@@ -1,0 +1,15 @@
+{
+  "submission": {
+    "name": "JP",
+    "email": "bonnerjp@gmail.com",
+    "image": "http://placehold.it/1500.png",
+    "pickup": false,
+    "type_id": 1,
+    "transform_id": 1,
+    "responses": [
+      "Response to Q1",
+      "Response to Q2",
+      "Response to Q3"
+    ]
+  }
+}
